@@ -1,0 +1,99 @@
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    font-family: "Comic Sans MS";
+    font-size: 65px;
+}
+
+h2 {
+    font-family: "Trebuchet MS";
+    font-size: 40px;
+}
+
+.pLink {
+    font-size: 20px;
+}
+
+.div1 {
+  background-color: cornsilk;
+  outline-style: double;
+  padding-top: 50px;
+  padding-right: 100px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  font-style: normal;
+  font-family: "Verdana", "Arial";
+  font-size: 20px;
+  margin-right: 250px
+  
+}
+
+.div2 {
+  font-style: normal;
+  font-family: "Verdana", "Arial";
+  font-size: 20px;
+    margin-right: 250px
+}
+
+ul.a {
+  list-style-type: square;
+  list-style-position: outside;
+}
+
+li {
+  margin: 20px 0;    
+}
+
+img {
+    width:180px;
+    height:150px;
+}
+
+img:hover{
+    opacity: 0.2;
+}
+
+
+#divImg1 {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-family: "Verdana", "Arial";
+    font-size: 30px;
+    
+}
+
+#divImg2{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-family: "Verdana", "Arial";
+    font-size: 30px;
+}
+
+#divImg3{
+   position: absolute;
+    top: 10px;
+    left: 10px;
+    font-family: "Verdana", "Arial";
+    font-size: 30px;
+}
+
+.divContainer1{
+    position: relative;
+    float:right;
+    right: 900px;
+}
+
+.divContainer2{
+    position: relative;
+    float:right;
+    right: 450px;
+}
+
+.divContainer3{
+    position: relative;
+    float:right;
+}
