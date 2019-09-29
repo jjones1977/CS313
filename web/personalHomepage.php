@@ -7,7 +7,7 @@
     </head>
     
     <body>
-        <a class="pLink" href="assignments.html"><p>Go to Assignments</p></a>
+        <a class="pLink" href="assignments.php"><p>Go to Assignments</p></a>
         
         
         <div class="divContainer1">
